@@ -30,7 +30,7 @@ Este proyecto es una solución basada en Java para la gestión de procesos de n�
 
 4. **Compilar y Ejecutar**:
    - Compilar el proyecto en el IDE.
-   - Ejecutar la clase `Main.java` para iniciar la aplicación.
+   - Ejecutar la clase `GestionNominas.java` para iniciar la aplicación.
 
 ## Funcionalidades Principales
 
