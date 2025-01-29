@@ -1,4 +1,4 @@
-# Payroll-Management-System-Java
+# Payroll-Management-System-Python
 Java-based solution for managing employee payroll processes. It includes features like tracking employee details, managing contracts, calculating deductions, overtime, and leave days. With modular and well-structured code, it's ideal for automating payroll tasks and learning Java programming principles.
 
 # Sistema de Gestión de Nóminas en Java
@@ -8,7 +8,7 @@ Este proyecto es una solución basada en Java para la gestión de procesos de n�
 ## Requisitos del Sistema
 
 - **Java JDK 8 o superior**: Asegúrate de tener instalado el JDK adecuado.
-- **Entorno de Desarrollo**: Se recomienda IntelliJ IDEA o Eclipse.
+- **Entorno de Desarrollo**: Se recomienda IntelliJ IDEA o Eclipse. También se puede usar VisualStudioCode o cualquier otro compilador.
 - **Base de Datos**: MySQL (configurado en el proyecto).
 
 ## Instalación y Uso
@@ -23,13 +23,7 @@ Este proyecto es una solución basada en Java para la gestión de procesos de n�
    - Importar el proyecto como un proyecto de Java en IntelliJ IDEA o Eclipse.
    - Asegurar que todas las dependencias estén correctamente configuradas.
 
-3. **Configurar la Base de Datos**:
-   - Crear una base de datos en MySQL.
-   - Importar el esquema proporcionado en el proyecto.
-   - Configurar las credenciales en el archivo de configuración del proyecto.
-
-4. **Compilar y Ejecutar**:
-   - Compilar el proyecto en el IDE.
+3. **Compilar y Ejecutar**:
    - Ejecutar la clase `GestionNominas.java` para iniciar la aplicación.
 
 ## Funcionalidades Principales
